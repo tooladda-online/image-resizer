@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📐 Image Resizer
+# 🖼️ Image Resizer
 
 ### Use Image Resizer free on ToolAdda — quick, accurate, and browser-based.
 
